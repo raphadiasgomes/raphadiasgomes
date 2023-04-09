@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-  <a href="https://github.com/rapha-gomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rapha-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapha-gomes&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/raphadiasgomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphadiasgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphadiasgomes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,6 @@
   <a href="https://www.instagram.com/raphaelmatheusgomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-d-850560229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rapha-gomes/rapha-gomes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/raphadiasgomes/rapha-gomes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
